@@ -57,4 +57,4 @@ Let's look at a real-time demo.
 
 ### Query: What are some interesting facts about new AI Startups?
 
-[![Query Example](https://img.youtube.com/vi/0-6LY9XJbZQ/0.jpg)](https://youtu.be/0-6LY9XJbZQ)
+[![Query Example](./assets/talk-to-video-thumbnail-image.png)](https://youtu.be/0-6LY9XJbZQ)
