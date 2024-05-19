@@ -56,5 +56,3 @@ Let's look at a real-time demo.
 **_YouTube Video_**: https://www.youtube.com/watch?v=e1Yhs9BEOSw&t=51s&ab_channel=YCombinator
 
 ### Query: What are some interesting facts about new AI Startups?
-
-![What are some interesting facts about new AI Startups?](./assets/talk-to-video-480p.mov)
