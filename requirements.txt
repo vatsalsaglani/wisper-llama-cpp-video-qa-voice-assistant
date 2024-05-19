@@ -6,3 +6,5 @@ transformers==4.39.3
 python-dotenv==1.0.1
 numpy==1.26.4
 youtube-transcript-api==0.6.2
+pywhispercpp[examples]==1.2.0
+elevenlabs==1.2.2
