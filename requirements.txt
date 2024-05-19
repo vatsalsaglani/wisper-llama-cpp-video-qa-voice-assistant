@@ -1,0 +1,8 @@
+torch==2.3.0
+llama_cpp_python==0.2.65
+httpx==0.25.2
+tokenizers==0.15.2
+transformers==4.39.3
+python-dotenv==1.0.1
+numpy==1.26.4
+youtube-transcript-api==0.6.2
